@@ -41,5 +41,6 @@ Using power query on Power Bi, I inspected the dataset and found it free of erro
 You can interact with this report [here](https://app.powerbi.com/groups/me/reports/b25df59b-3127-41dc-88c6-a51e4e83d9e8?ctid=b5a294b7-8629-43bb-8bb1-e56868124d9c&pbi_source=linkShare)
 
 ## Conclusion
-As my first project, this project has not only helped me learn the power basics but has also introduced me to documentationon GitHub. I look forward to working with more datasets, documenting and sharing my learning journey with you.
+As my first project, this project has not only helped me learn the power basics but has also introduced me to documentation on GitHub. I look forward to working with more datasets, documenting and sharing my learning journey with you.
+
 ![](https://images.unsplash.com/photo-1533601017-dc61895e03c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dG8lMjBiZSUyMGNvbnRpbnVlZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60)
