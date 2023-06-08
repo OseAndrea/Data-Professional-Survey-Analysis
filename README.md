@@ -7,7 +7,7 @@ I took on this engaging Power BI project to help me learn how to transform and m
 
 This project focuses on data professionals with the aim of analyzing results from a survey taken by individuals in different career paths. This project shows my skills in analyzing and visualizing data, and deriving isights from given data set.
 
-_Disclaimer: The dataset used int his project is a dummy dataset used to practice and demonstrate skills in Power Bi. They do not represent any company or organisation._
+_Disclaimer: The dataset used in this project is a dummy dataset used to practice and demonstrate skills in Power Bi. They do not represent any company or organisation._
 
 -----
 
